@@ -6,7 +6,7 @@
 
 ## 从这里开始
 
-1. 阅读 [`GitHub协作实操手册.md`](GitHub协作实操手册.md)。
+1. 阅读 [`GitHub协作实操手册.md`](GitHub协作实操手册.md)，或下载 [PDF 版](output/pdf/GitHub协作实操手册.pdf)。
 2. 按“第一次完整 PR”章节操作，不要直接在 `main` 上写练习答案。
 3. 完成正常 PR 后，再做“人为制造并解决冲突”。
 
@@ -22,3 +22,8 @@
 - [ ] 能使用三方合并编辑器解决一次冲突
 
 > 正式项目 [`moose-djy/dc-survival-guide`](https://github.com/moose-djy/dc-survival-guide) 不参与本练习。
+
+## 示例历史
+
+- [PR #1：正常的分支 → PR → Squash merge](https://github.com/Wantching/github-collaboration-practice/pull/1)
+- [PR #2：制造冲突 → 本地解决 → 恢复可合并](https://github.com/Wantching/github-collaboration-practice/pull/2)
